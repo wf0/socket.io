@@ -123,7 +123,8 @@ export default {
 .common {
   /* padding: 100px; */
   margin-top: 100px;
-  width: 800px;
+  /* width: 800px; */ /* 800 是我为了演示3个用户同时在线，建议设为100%，项目的宽度直接受这个影响*/
+  width:100%;
   height: 200px;
 }
 .el-header,
