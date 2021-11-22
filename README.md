@@ -16,3 +16,13 @@ vue-socket.io实现即时聊天
 + 启动vue项目：npm run serve
 + 启动socket服务：node index.js
 + 注意：一定是在相应的文件夹下面呀
+
+### 项目启动后
+
+等项目启动后，就能进入到主页啦，可以结合我的CSDN文章详细看看~
+
+![image](https://user-images.githubusercontent.com/71718029/142800288-2be1eb00-8b26-40df-a80d-e3970c8f7a30.png)
+
+![image](https://user-images.githubusercontent.com/71718029/142800334-df85a229-7a21-4585-b029-2fc6039e2144.png)
+
+欢迎在CSDN上给我留言，或者有不懂了，可以交流。
