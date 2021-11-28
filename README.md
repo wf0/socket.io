@@ -9,7 +9,7 @@ vue-socket.io实现即时聊天
 
 + 现在项目是没有node_module的，所以需要我们自己安装，方法如下：
 ![image](https://user-images.githubusercontent.com/71718029/142799777-0cf93aa9-a9a2-49c9-b309-f1f17dba3be6.png)
-+ 进入到项目中（两个分别安装），输入 node i,等待安装即可。
++ 进入到项目中（两个分别安装），输入 npm i --s,等待安装即可。(建议加上--s ,这样是从package-lock.json中直接下载对应版本，速度相对快。)
 
 ### 启动项目
 
